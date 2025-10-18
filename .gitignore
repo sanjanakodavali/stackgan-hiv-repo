@@ -1,0 +1,11 @@
+.DS_Store
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+data/images/*.png
+results/*.png

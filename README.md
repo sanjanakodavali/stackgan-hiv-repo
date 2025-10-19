@@ -138,14 +138,7 @@ See `docs/architecture.png`.
 - **Licensing:** PDB structures are CC0; any optional HPA images require attribution under CC BY-SA 4.0.
 - **Compute:** use mixed precision, early stopping, and reasonable batch sizes.
 
----
 
-## Assignment Tips (what graders will look for)
-
-- The repo **runs** (notebook executes; sample plot visible).
-- **Data step** demonstrated (scripts wrote `pairs.csv`; notebook loads it).
-- Clear **architecture & UI** plan (see `docs/architecture.png`, `docs/wireframe.png`, and `docs/blueprint.pdf`).
-- Repro steps are obvious (install, run notebook, see outputs).
 
 ---
 
